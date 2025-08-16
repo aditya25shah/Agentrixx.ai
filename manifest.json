@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Agentrixx",
+  "description": "Reduce your Debugging",
+  "version": "1.0.0",
+  "action": {
+    "default_icon": {
+      "16": "https://tse3.mm.bing.net/th/id/OIP._qykg9b7YTcy4t0wGDxlWgHaEn?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
